@@ -2,7 +2,8 @@
 
 A Python-based virtual assistant that uses natural language processing and voice recognition to perform various tasks through user voice commands.
 
-🔧 Features
+🔧 Features:
+
 🎙️ **Voice Command Processing:** Listens and interprets spoken input using the SpeechRecognition library.
 
 🗣️ **Text-to-Speech Responses:** Communicates back using pyttsx3 for natural-sounding voice responses.
